@@ -1,0 +1,8 @@
+# Minhas tarefas diárias
+| Tarefa                 | Descrição                                            |
+|------------------------|-----------------------------------------------------|
+| Estudar Git e GitHub   | Ler materiais e assistir aulas para entender comandos e fluxo básico de Git e GitHub. |
+| Praticar comandos básicos | Experimentar comandos como add, commit, push, pull, branch e merge para fixar o aprendizado. |
+| Fazer exercícios do curso | Resolver os exercícios propostos no curso para aplicar os conceitos estudados. |
+| Documentar aprendizados | Manter notas e documentação atualizadas sobre conceitos novos e dúvidas solucionadas. |
+
